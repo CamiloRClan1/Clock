@@ -23,7 +23,7 @@ function draw() {
 
   // Draw the clock background
   noStroke();
-  fill(244, 122, 158);
+  fill(66, 134, 244);
   ellipse(cx, cy, clockDiameter + 25, clockDiameter + 25);
   fill(237, 34, 93);
   ellipse(cx, cy, clockDiameter, clockDiameter);
